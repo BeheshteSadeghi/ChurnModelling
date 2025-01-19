@@ -2,7 +2,7 @@
 
 ### This project aims to train the best model for predicting customer churn.
 
-### In this project, first data is studied and several diagrams are depicted for storytelling. Since we face with unbalanced data, categorical data, outliers, unscaled data and exess of features, related packages from python is utilized to prepare data for modelling. 
+### In this project; first, data is studied and several diagrams are depicted for storytelling. Since we face with unbalanced data, categorical data, outliers, unscaled data and exess of features, related packages from python is utilized to prepare data for modelling. 
 ### In the next step, Pycaret Classification is applied over the cleaned data, and top 5 models are picked for further investigation, which are :
 
 #### 1. CatBoost
